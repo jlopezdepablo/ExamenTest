@@ -1,1 +1,2 @@
 fichero editado desde git
+línea añadida desde pc
