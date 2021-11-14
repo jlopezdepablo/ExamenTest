@@ -1,3 +1,0 @@
-fichero editado desde git
-línea añadida desde pc
-segunda edicion desde git
