@@ -1,1 +1,2 @@
 fichero editado desde git
+segunda edicion desde git
